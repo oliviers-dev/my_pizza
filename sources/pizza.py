@@ -35,5 +35,10 @@ RECIPES = {
     'mediterranea': {
         'ingredients': {'mozzarella': 3, 'pepper': 4, 'onion': 3},
         'price': 11,
+    },
+    'napolitaine': {
+        'ingredients': {'ham': 4, 'mozzarella' : 2, 'parmesan': 6, 'gorgonzola': 2, 'onion': 5, 'olive': 6,
+                                          'pepper': 1, 'garlic': 4, 'basil': 5},
+        'price': 15,
     }
 }
